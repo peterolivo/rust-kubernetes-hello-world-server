@@ -2,3 +2,8 @@
 name = "hello_world_kubernetes"
 version = "0.1.0"
 edition = "2021"
+
+[dependencies]
+pyroscope = "0.5.7"
+pyroscope_pprofrs = "0.2.7"
+rouille = "3.6.2"
